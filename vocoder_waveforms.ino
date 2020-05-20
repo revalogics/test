@@ -2,6 +2,8 @@
 March 19, 2020
 19-Channel Vocoder with Built-in Waveform Generator
 
+gAEGNSRHMNSFHNMSR
+
 Teensy 3.6
 Serial + MIDI + Audio
 256 MHz (overclock)
